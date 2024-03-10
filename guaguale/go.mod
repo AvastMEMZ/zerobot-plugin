@@ -10,7 +10,7 @@ require (
 )
 
 require (
-	github.com/FloatTech/floatbox v0.0.0-20240304064110-78a83f1af9a6 // indirect
+	github.com/FloatTech/floatbox v0.0.0-20230331064925-9af336a84944 // indirect
 	github.com/FloatTech/gg v1.1.2 // indirect
 	github.com/FloatTech/imgfactory v0.2.2-0.20230315152233-49741fc994f9 // indirect
 	github.com/FloatTech/rendercard v0.0.10-0.20230223064326-45d29fa4ede9 // indirect
@@ -35,11 +35,11 @@ require (
 	github.com/tidwall/gjson v1.14.4 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
-	golang.org/x/image v0.11.0 // indirect
-	golang.org/x/mod v0.8.0 // indirect
-	golang.org/x/sys v0.5.0 // indirect
-	golang.org/x/text v0.12.0 // indirect
-	golang.org/x/tools v0.6.0 // indirect
+	golang.org/x/image v0.3.0 // indirect
+	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
+	golang.org/x/sys v0.3.0 // indirect
+	golang.org/x/text v0.6.0 // indirect
+	golang.org/x/tools v0.1.12 // indirect
 	lukechampine.com/uint128 v1.2.0 // indirect
 	modernc.org/cc/v3 v3.40.0 // indirect
 	modernc.org/ccgo/v3 v3.16.13 // indirect
